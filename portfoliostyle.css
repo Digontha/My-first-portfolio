@@ -60,8 +60,12 @@ font-weight: 700;
         background-repeat: no-repeat;
         background-position:bottom right, top left;
         background-repeat: no-repeat;
-
+        margin-bottom: 0%;
+        vertical-align: bottom;
+        
     }
+
+    
 .am{
     color:  #474747;
 
@@ -102,4 +106,32 @@ font-weight: 700;
 .cvc{
     display: flex;
    
+}
+
+
+.section{
+    padding: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px 0;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
+.about{
+    text-align: center;
+    
+}
+.pera2{
+   text-align: center;
+}
+.info{
+   display: flex;
+
+   justify-content: space-around;
+}
+.info-title{
+    text-align: center;
 }
